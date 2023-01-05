@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    text-align: center;
+}
+h3{ font-family: 'outfit';
+    color: hsl(218, 44%, 22%);
+    margin: 15px 30px 10px;
+    font-weight: 700;
+}
+
+
+
+.Qr-Imag{
+    width: 245px;
+    height: 245px;
+    margin: 15px 0 0;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Outfit';
+    font-size: 13px;
+    color: hsl(220, 15%, 55%);
+    margin: 0px 30px 40px;
+    font-weight: 400;
+}
+
+.QR{
+    background-color: hsl(0, 0%, 100%);
+    height: 425px;
+    width: 275px;
+    border-radius: 20px;
+    margin:100px auto;
+}
